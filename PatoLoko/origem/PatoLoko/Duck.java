@@ -16,7 +16,7 @@ public class Duck {
 	}
 	
 	public void display() {
-		System.out.println("I'm a fucking duck");
+		System.out.printl("I'm a ucking duck");
 	}
 	
 }
