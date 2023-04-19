@@ -16,7 +16,7 @@ public class Duck {
 	}
 	
 	public void display() {
-		System.out.printl("I'm a ucking duck");
+		System.out.printl("I'm duck");
 	}
 	
 }
